@@ -1,23 +1,19 @@
-Claro! Aqui está o README atualizado com a informação sobre o LM Studio:
-
----
-
 # Gerador de Conteúdo com IA 🚀🤖
 
 Bem-vindo ao **Gerador de Conteúdo com IA**! Este projeto permite que você gere pesquisas 📄 ou planilhas 📊 personalizadas com base em uma mensagem fornecida pelo usuário. A IA irá processar a mensagem e gerar um conteúdo que pode ser editado e exportado para formatos como **DOCX** ou **XLSX**.
 
 ---
 
-## Funcionalidades ✨
+# Demonstração 
+[![Demo do Projeto](https://img.youtube.com/vi/uFZKpbZOdGI/maxresdefault.jpg)](https://www.youtube.com/watch?v=uFZKpbZOdGI)
 
-- **Entrada de Mensagem do Usuário 💬**: Digite sua mensagem e envie para o backend gerar conteúdo.
+## Funcionalidades ✨da de Mensagem do Usuário 💬**: Digite sua mensagem e envie para o backend gerar conteúdo.
 - **Geração de Conteúdo com IA 🤖**: A IA gera respostas para pesquisas ou planilhas com base na mensagem enviada.
 - **Edição de Conteúdo 📝**: O conteúdo gerado pode ser editado diretamente na interface.
 - **Exportação de Conteúdo 💾**: Exporte o conteúdo gerado para arquivos **DOCX** ou **XLSX**.
 
 ---
 
-## Tecnologias 🛠️
 
 - **Frontend**:
   - React ⚛️
@@ -182,3 +178,5 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 ---
 
 🔧 **Divirta-se criando conteúdos com IA!** 😄
+
+
