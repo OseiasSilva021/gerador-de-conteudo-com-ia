@@ -35,7 +35,7 @@ Bem-vindo ao **Gerador de Conteúdo com IA**! Este projeto permite que você ger
 
 ## Pré-requisitos 🖥️
 
-Antes de rodar o projeto, **é necessário ter o LM Studio instalado**, pois ele será usado para rodar a IA **Llama** e conectá-la ao backend. Você pode baixar o LM Studio [aqui](https://lm.studio/download).
+Antes de rodar o projeto, **é necessário ter o LM Studio instalado**, pois ele será usado para rodar a IA **Llama** e conectá-la ao backend. Você pode baixar o LM Studio [aqui](https://lmstudio.ai/).
 
 **No LM Studio**, você deve configurar e rodar a IA **Meta Llama 3.1**, que será responsável por gerar o conteúdo de acordo com a mensagem enviada pelo usuário.
 
